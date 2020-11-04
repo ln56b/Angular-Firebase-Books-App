@@ -1,19 +1,17 @@
 **General** 
 
  An Angular front-end CRUD app with authentication
- [See it live]('https://angular-books-3ab1e.web.app/books')
+ 
+**How it works**
 
-**Objectives**
+- Create an account
+- Add a book
+- Click on a book from list to see details
+- Delete a book from list
 
-- Add a ride with file upload and simple form with validation controls
+**Live Project**
 
-- Update a ride - The form proposes extra fields
-
-- Display a gallery of rides - Get a notification in case there is no ride
-
-- Delete a ride - Get a dialog to confirm the action
-
-- Get notifications of successful creation, update and delete actions
+[Link to live app](https://angular-books-3ab1e.web.app/books/)
 
 **Technologies**
 
