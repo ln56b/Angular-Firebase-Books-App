@@ -1,27 +1,24 @@
-# AngularFirebaseBooksApp
+**General** 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+ An Angular front-end CRUD app with authentication
+ [See it live]('https://angular-books-3ab1e.web.app/books')
 
-## Development server
+**Objectives**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Add a ride with file upload and simple form with validation controls
 
-## Code scaffolding
+- Update a ride - The form proposes extra fields
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Display a gallery of rides - Get a notification in case there is no ride
 
-## Build
+- Delete a ride - Get a dialog to confirm the action
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Get notifications of successful creation, update and delete actions
 
-## Running unit tests
+**Technologies**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular
+- Firebase Authentication
+- Firebase RealTime Database
+- Firebase Hosting
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
